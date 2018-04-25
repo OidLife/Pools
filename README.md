@@ -3,7 +3,13 @@
 
 ## If you do not want to proceed, point your miner(s) to oidpool.com:[stratum port dif level]
 
-## Stratum Ports: ```oidpool.com:3008``` 8 dif, ```oidpool.com:3032``` 32 dif and ```oidpool.com:3256``` 256 dif
+## Stratum Ports:
+
+`oidpool.com:3008` 8 dif
+
+`oidpool.com:3032` 32 dif
+
+`oidpool.com:3256` 256 dif
 
 # List of pool(s):
 Website stats -> https://oidpool.com
