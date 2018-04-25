@@ -83,7 +83,13 @@ txindex=1
 
 ## Now we need to setup the POOL (if you do not want to do this, simply point your miner to oidpool.com:[stratum port dif level])
 
-Ports: 3008 8 dif, 3032 32 dif and 3256 256 dif
+#### Stratum Ports:
+
+`oidpool.com:3008` 8 dif
+
+`oidpool.com:3032` 32 dif
+
+`oidpool.com:3256` 256 dif
 
 ## *** It's recommended you learn about redis, js, stratum, npm, node js, json and nginx reverse proxy ***
 
