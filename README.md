@@ -1,6 +1,6 @@
 # Pools
 ## Where to mine OID and setting up a pool.
-**Please see Steps 23 & 24 to follow our [Code of Conduct](https://github.com/OidLife/Conduct)**
+**Please see Steps 24 & 25 to follow our [Code of Conduct](https://github.com/OidLife/Conduct)**
 
 ## If you do not want to proceed, point your miner(s) to oidpool.com:[stratum port dif level]
 
