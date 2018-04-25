@@ -1,15 +1,15 @@
 # Pools
-##Where to mine OID and setting up a pool.
+## Where to mine OID and setting up a pool.
 
-##If you do not want to proceed, point your miner(s) to oidpool.com:[stratum port dif level]
+## If you do not want to proceed, point your miner(s) to oidpool.com:[stratum port dif level]
 
-##Stratum Ports: 3008 8 dif, 3032 32 dif and 3256 256 dif
+## Stratum Ports: 3008 8 dif, 3032 32 dif and 3256 256 dif
 
 # List of pools:
 https://oidpool.com
 
 
-##Ok, let's begin...
+## Ok, let's begin...
 
 # Opioid compile from source:
 1) ```sudo apt-get update```
@@ -24,7 +24,7 @@ https://oidpool.com
 
 6) ```sudo apt-get install libevent-dev libcrypto++-dev libgmp3-dev```
 
-##** Make sure the above installs without error. If any errors, the remaining will not install.
+## ** Make sure the above installs without error. If any errors, the remaining will not install.
 
 7) ```mkdir oid_source```
 
@@ -42,9 +42,9 @@ or use command line
 
 13) ```make -f makefile.unix RELEASE=1```
 
-##*** The compiling will take about 15 to 30 minutes depending on your system. ***
+## *** The compiling will take about 15 to 30 minutes depending on your system. ***
 
-##*** Your compiled daemon named opioidd can be found in the src folder when compiling is finished.
+## *** Your compiled daemon named opioidd can be found in the src folder when compiling is finished.
 
 14) ```chmod +x opioidd```
 
@@ -75,11 +75,11 @@ txindex=1
 22) if you have watch installed type "```watch opioidd getinfo```" and let it sync to the highest block.
 ** you can simply type "```opioidd getinfo```" and wait for enough peers to connect **
 
-##Now we need to setup the POOL (if you do not want to do this, simply point your miner to oidpool.com:[stratum port dif level])
+## Now we need to setup the POOL (if you do not want to do this, simply point your miner to oidpool.com:[stratum port dif level])
 
 Ports: 3008 8 dif, 3032 32 dif and 3256 256 dif
 
-##*** It's recommended you learn about redis, js, stratum, npm, node js, json and nginx reverse proxy ***
+## *** It's recommended you learn about redis, js, stratum, npm, node js, json and nginx reverse proxy ***
 
 # Now the pool...
 
@@ -91,7 +91,7 @@ https://oid.life/pool_config/opioid.json
 25) You must add opioid.json to unomp/coins/
 https://oid.life/coins/opioid.json
 
-##*** Please see our code of conduct when you setup your own pool. ***
+## *** Please see our code of conduct when you setup your own pool. ***
 https://github.com/OidLife/Conduct
 
 
