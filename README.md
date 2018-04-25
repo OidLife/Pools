@@ -85,15 +85,16 @@ Ports: 3008 8 dif, 3032 32 dif and 3256 256 dif
 
 23) Go to https://github.com/UNOMP/unified-node-open-mining-portal and install UNOMP. 
 
-24) You must add opioid.json to unomp/pool_configs/  
+24) You must add opioid.json to `unomp/pool_configs/`  
 https://oid.life/pool_config/opioid.json
 
-25) You must add opioid.json to unomp/coins/
+25) You must add opioid.json to `unomp/coins/`
 https://oid.life/coins/opioid.json
 
-## *** Please see our code of conduct when you setup your own pool. ***
+#### *** Please see our code of conduct when you setup your own pool. ***
 https://github.com/OidLife/Conduct
 
 
 Thank you,
+
 OID Team  
