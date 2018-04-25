@@ -12,7 +12,7 @@ https://oidpool.com
 Ok, let's begin...
 
 # Opioid compile from source:
-1) sudo apt-get update
+1) ```sudo apt-get update```
 
 2) sudo apt-get upgrade
 
