@@ -31,7 +31,8 @@ Ok, let's begin...
 8) ```cd oid_source```
 
 9) download the source code https://github.com/OidLife/opioid-oid-project
-or use command line ```wget https://oid.life/source/opioid-source.tar.gz```
+or use command line 
+```wget https://oid.life/source/opioid-source.tar.gz```
 
 10) ```tar -xzvf opioid-source.tar.gz```
 
@@ -57,7 +58,7 @@ or use command line ```wget https://oid.life/source/opioid-source.tar.gz```
 
 19) Paste in to the config:
 ```
-rpcuser=rpc_opioidcoin
+rpcuser=YOUR USERNAME
 rpcpassword=YOUR PASSWORD
 rpcallowip=YOUR LOCALHOST IP
 rpcport=36362
