@@ -113,4 +113,4 @@ We reserve the right to refuse service to anyone that doesn’t fit in our [user
 
 Thank you,
 
-OID Team  
+[OID Team](https://oid.life/)  
