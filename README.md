@@ -107,8 +107,8 @@ https://oid.life/coins/opioid.json
 #### *** Please see our code of conduct when you setup your own pool. ***
 https://github.com/OidLife/Conduct
 
-Invalid addresses are donated to the pool!
-We reserve the right to refuse service to anyone that doesn’t fit in our [user policy](https://bitcoinz.miningspeed.com/faq!).
+**Invalid addresses are donated to the pool!
+We reserve the right to refuse service to anyone that doesn’t fit in our [user policy](https://bitcoinz.miningspeed.com/faq!).**
 
 
 Thank you,
