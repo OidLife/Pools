@@ -6,11 +6,11 @@
 
 ## Stratum Ports:
 
-`oidpool.com:3008` 8 dif
+`oidminingpool.com:3008` 8 dif  
 
-`oidpool.com:3032` 32 dif
+`oidminingpool.com:3032` 32 dif  
 
-`oidpool.com:3256` 256 dif
+`oidminingpool.com:3256` 256 dif  
 
 # List of pool(s):
 Website stats -> https://oidpool.com
@@ -85,11 +85,11 @@ txindex=1
 
 #### Stratum Ports:
 
-`oidpool.com:3008` 8 dif
+`oidminingpool.com:3008` 8 dif  
 
-`oidpool.com:3032` 32 dif
+`oidminingpool.com:3032` 32 dif  
 
-`oidpool.com:3256` 256 dif
+`oidminingpool.com:3256` 256 dif  
 
 ## *** It's recommended you learn about redis, js, stratum, npm, node js, json and nginx reverse proxy ***
 
