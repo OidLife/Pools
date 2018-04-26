@@ -37,9 +37,9 @@ Website stats -> https://oidpool.com
 
 8) ```cd oid_source```
 
-9) download the source code https://github.com/OidLife/opioid-oid-project
-or use command line 
-```wget https://oid.life/source/opioid-source.tar.gz```
+9) download the source code https://github.com/OidLife/opioid-oid-project or use command line 
+
+`wget https://oid.life/source/opioid-source.tar.gz`
 
 10) ```tar -xzvf opioid-source.tar.gz```
 
