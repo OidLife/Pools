@@ -1,6 +1,6 @@
 # Pools
 ## Where to mine OID and setting up a pool.
-**Steps 24 & 25 are *Required* to follow our [Code of Conduct](https://github.com/OidLife/Conduct)**
+  **Steps 24 & 25 are *Required* to follow our [Code of Conduct](https://github.com/OidLife/Conduct)**
 
 ## If you do not want to proceed, point your miner(s) to oidpool.com:[stratum port dif level]
 
@@ -37,8 +37,7 @@ Website stats -> https://oidpool.com
 
 8) ```cd oid_source```
 
-9) download the source code https://github.com/OidLife/opioid-oid-project or use command line 
-
+9) download the source code https://github.com/OidLife/opioid-oid-project or use command line  
 `wget https://oid.life/source/opioid-source.tar.gz`
 
 10) ```tar -xzvf opioid-source.tar.gz```
@@ -99,18 +98,17 @@ txindex=1
 23) Go to https://github.com/UNOMP/unified-node-open-mining-portal and install UNOMP. 
 
 24) You must add opioid.json to `unomp/pool_configs/`  
-https://oid.life/pool_config/opioid.json
+  https://oid.life/pool_config/opioid.json
 
-25) You must add opioid.json to `unomp/coins/`
-https://oid.life/coins/opioid.json
+25) You must add opioid.json to `unomp/coins/`  
+  https://oid.life/coins/opioid.json
 
 #### *** Please see our code of conduct when you setup your own pool. ***
-https://github.com/OidLife/Conduct
+  https://github.com/OidLife/Conduct
 
 **Invalid addresses are donated to the pool!
 We reserve the right to refuse service to anyone that doesn’t fit in our [user policy](https://bitcoinz.miningspeed.com/faq!).**
 
 
-Thank you,
-
+Thank you,  
 [OID Team](https://oid.life/)  
