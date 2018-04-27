@@ -106,6 +106,16 @@ txindex=1
 #### *** Please see our code of conduct when you setup your own pool. ***
   https://github.com/OidLife/Conduct
 
+### OID wallet address is how you get your block rewards.
+Your OID wallet address is your worker name -> oid_wallet_address
+
+Note: Do not format as ```DPpyxuy6eJVyDaHJAcbEnJwNZtRVdPMdgn.Rig1```  
+
+Use -> E.g ```DPpyxuy6eJVyDaHJAcbEnJwNZtRVdPMdgn```
+
+P: `x` *single digit*
+
+
 **Invalid addresses are donated to the pool!
 We reserve the right to refuse service to anyone that doesn’t fit in our [user policy](https://bitcoinz.miningspeed.com/faq!).**
 
