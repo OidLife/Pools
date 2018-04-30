@@ -16,7 +16,7 @@
 `oidminingpool.com:3256` 256 dif  
 
 # List of pool(s):
-Website stats -> https://oidpool.com
+1) Website stats -> https://oidpool.com | Miners -> `oidminingpool.com:[port]`
 
 
 ## Ok, let's begin...
